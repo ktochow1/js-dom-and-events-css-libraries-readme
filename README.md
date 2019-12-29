@@ -199,8 +199,8 @@ look!
 
 ## Resources
 
-- [Basscss](http://www.basscss.com)
+- [Basscss](http://basscss.com)
 
-[elements]: http://www.basscss.com/#basscss-typography
-[classes]: http://www.basscss.com/#basscss-flexbox
-[grid]: http://www.basscss.com/#basscss-grid
+[elements]: http://basscss.com/#basscss-typography
+[classes]: http://basscss.com/#basscss-flexbox
+[grid]: http://basscss.com/#basscss-grid
